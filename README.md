@@ -1,14 +1,14 @@
 # Apache Kafka Temperature & Humidity Sensor
 
-Mata Kuliah: Big Data dan Data Lakehouse (A) <br>
-Dosen Pengampu : Fuad Dary Rosyadi, S.Kom., M.Kom.
+Mata Kuliah: Big Data dan Data Lakehouse (A) <br> <br>
+Dosen Pengampu : Fuad Dary Rosyadi, S.Kom., M.Kom. <br>
 
 | Nama                     | NRP        |
 | ------------------------ | ---------- |
 | Rafael Gunawan | 5027231019 |
 
 ## Langkah Pengerjaan
-1. Install Kafka + Spark. <br> <br> <br>
+1. Install Kafka + Spark. 
 2. Jalankan server Kafka di <strong>Terminal 1<strong>. <br>
    `bin/kafka-server-start.sh config/server.properties` <br> <br>
    ![image](https://github.com/user-attachments/assets/d7ce4ac6-59d6-4d1d-81d3-40b95902b014)
