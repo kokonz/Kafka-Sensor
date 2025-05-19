@@ -1,6 +1,6 @@
 # Apache Kafka Temperature & Humidity Sensor
 
-Mata Kuliah: Big Data dan Data Lakehouse (A)
+Mata Kuliah: Big Data dan Data Lakehouse (A) <br>
 Dosen Pengampu : Fuad Dary Rosyadi, S.Kom., M.Kom.
 
 | Nama                     | NRP        |
